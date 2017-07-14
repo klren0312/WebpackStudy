@@ -1,0 +1,15 @@
+.ing {
+    height: 48px;
+    position: relative;
+    top: 30%;
+    left: 40%;
+    background-image: url('../images/zvd.png');
+    background-repeat: no-repeat;
+    font-size: 24px;
+    color: #000;
+}
+
+.hello-world {
+    color: red;
+    border: 1px solid green;
+}
