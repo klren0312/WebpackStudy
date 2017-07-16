@@ -13,14 +13,14 @@
 
 ## 学习目录
 
- - [st1](./master/st1) --- 2017-07-12 学习相关静态文件处理
- - [st2](./master/st2) --- 2017-07-12  
+ - [st1](./tree/master/st1) --- 2017-07-12 学习相关静态文件处理
+ - [st2](./tree/master/st2) --- 2017-07-12  
  - |------ 2017-07-13 输出文件配置
- - [st3](./master/st3) --- 2017-07-13 完成项目修改自动监听编译
- - [st4](./master/st4) --- 2017-07-13 热加载
- - [st5](./master/st5) --- 2017-07-14 webpack与angular1.x结合   
- - [st6](./master/st6) --- 2017-07-14 webpack与angular1.x结合  
- - [st7](./master/st7) --- 2017-07-16 webpack命令行操作
- - [st8](./master/st8) --- 2017-07-16 webpack配置文件
+ - [st3](./tree/master/st3) --- 2017-07-13 完成项目修改自动监听编译
+ - [st4](./tree/master/st4) --- 2017-07-13 热加载
+ - [st5](./tree/master/st5) --- 2017-07-14 webpack与angular1.x结合   
+ - [st6](./tree/master/st6) --- 2017-07-14 webpack与angular1.x结合  
+ - [st7](./tree/master/st7) --- 2017-07-16 webpack命令行操作
+ - [st8](./tree/master/st8) --- 2017-07-16 webpack配置文件
 
   
