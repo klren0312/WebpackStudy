@@ -19,3 +19,8 @@
  - [st3](./master/st3) --- 2017-07-13 完成项目修改自动监听编译
  - [st4](./master/st4) --- 2017-07-13 热加载
  - [st5](./master/st5) --- 2017-07-14 webpack与angular1.x结合   
+ - [st6](./master/st6) --- 2017-07-14 webpack与angular1.x结合  
+ - [st7](./master/st7) --- 2017-07-16 webpack命令行操作
+ - [st8](./master/st8) --- 2017-07-16 webpack配置文件
+
+  

@@ -1,0 +1,14 @@
+header li {
+    float: left;
+    margin-left: 20px;
+}
+
+footer {
+    background: #aaa;
+    height: 25px;
+    width: 100%;
+}
+
+footer span {
+    margin-top: 20px;
+}

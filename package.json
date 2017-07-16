@@ -8,7 +8,9 @@
         "buildstu2": "cd st2 && webpack",
         "buildstu4": "cd st4 && webpack-dev-server",
         "devstu5": "cd st5 && webpack",
-        "start": "cd st3 && webpack-dev-server"
+        "devstu6": "cd st6 && webpack",
+        "start": "cd st3 && webpack-dev-server",
+        "devstu8": "cd st8 && webpack --progress --display-modules --display-reasons --colors"
     },
     "author": "klren",
     "license": "ISC",
